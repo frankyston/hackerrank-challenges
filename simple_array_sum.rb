@@ -1,3 +1,5 @@
+#!/bin/ruby
+
 # https://www.hackerrank.com/challenges/simple-array-sum/problem
 # Given an array of integers, find the sum of its elements.
 
@@ -33,7 +35,7 @@
 
 # We print the sum of the array's elements: 1+2+3+4+10+11.
 
-#!/bin/ruby
+
 
 #
 # Complete the simpleArraySum function below.
