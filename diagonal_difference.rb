@@ -78,11 +78,6 @@ def diagonalDifference(arr)
 end
 
 arr = [ [11, 2, 4], [4, 5, 6], [10, 8, -12] ]
-arr = [ [-1, 1, -7, -8], [-10, -8, -5, -2], [0, 9, 7, -1], [4, 4, -2, 1] ]
-arr = [ [6 8], [-6 9] ]
 
 puts diagonalDifference(arr)
 
-2.times do |i|
-    arr[i] = arr[i].map(&:to_i)
-end
